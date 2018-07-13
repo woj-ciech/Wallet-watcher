@@ -3,6 +3,8 @@ Small script for retrieving incoming transactions based on provided hour period.
 You have to pass address(es) of wallet(s), start hour, end hour and if you want to get json output.
 Based on this data, script retrieves all incoming transaction to this wallet(s). Additionally, it gathers information about address which has transferred the money.
 
+Background ---> https://medium.com/@woj_ciech/osint-investigation-based-on-gao-report-about-firearm-sales-in-dark-web-bitcoin-tracking-with-a0dcfa7d8daf
+
 ## Usage
 ```
 python wallet-watcher.py -h
@@ -79,5 +81,3 @@ It uses three different API (Blockonomics.io, Coindesk.com and blockchain.com) b
 There is a lot to develop further, lots of different filters can be implemented. Feel free to use it and contribute.
 
 Wallets in example are totally random.
-
-Some background ---> 
