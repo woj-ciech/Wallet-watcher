@@ -21,7 +21,7 @@ optional arguments:
 ```
 
 ```
-ww.py --address "1Bd8evxVYZLF6FVNQpUGuwvzgqvoMVK2Lx, 1Jc65vRz6qC3r9XmGpmoEGBKmDZXc9sfNv" --begin 7 --end 19 --json
+wallet-watcher.py --address "1Bd8evxVYZLF6FVNQpUGuwvzgqvoMVK2Lx, 1Jc65vRz6qC3r9XmGpmoEGBKmDZXc9sfNv" --begin 7 --end 19 --json
 
 Checking all transactions of 1Bd8evxVYZLF6FVNQpUGuwvzgqvoMVK2Lx, 1Jc65vRz6qC3r9XmGpmoEGBKmDZXc9sfNv from 9 to 17
 JSON output: True
